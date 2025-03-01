@@ -120,3 +120,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 []
+
+## Upcoming Presentation and Demo Video
+
+A presentation and demo video will be coming soon...
+
+For more content, visit my YouTube channel: [Kaan Turgut](https://www.youtube.com/@hkaanturgut)
