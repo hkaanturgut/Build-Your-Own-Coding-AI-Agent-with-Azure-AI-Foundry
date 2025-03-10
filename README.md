@@ -2,6 +2,12 @@
 
 This repository demonstrates how to build and deploy custom AI coding agents using Azure AI Foundry. These agents are designed to enforce company-specific coding standards, assist development teams, and ensure code quality across different programming languages.
 
+## Video Demo
+
+[![Watch the video](https://img.youtube.com/vi/MpHrIBkNJnw/maxresdefault.jpg)](https://www.youtube.com/watch?v=MpHrIBkNJnw)
+
+For more content, visit my YouTube channel: [Kaan Turgut](https://www.youtube.com/@hkaanturgut)
+
 ## 🌟 Features
 
 - Custom AI agents for multiple programming languages (Python, Java)
